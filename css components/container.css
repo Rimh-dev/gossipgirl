@@ -1,0 +1,10 @@
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.container h2 {
+  text-align: center;
+  color: #f0e68c; /* Light gold */
+}
